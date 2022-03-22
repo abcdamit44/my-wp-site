@@ -1,0 +1,14 @@
+2022-03-21T15:17:26+00:00 CRITICAL Uncaught Error: Undefined constant "inner" in C:\wamp64\www\my-wp-site\wp-content\themes\kstheme\template-about.php:295
+Stack trace:
+#0 C:\wamp64\www\my-wp-site\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\my-wp-site\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\m...')
+#2 C:\wamp64\www\my-wp-site\index.php(17): require('C:\\wamp64\\www\\m...')
+#3 {main}
+  thrown in C:\wamp64\www\my-wp-site\wp-content\themes\kstheme\template-about.php on line 295
+
+2022-03-21T15:46:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\my-wp-site\wp-includes\query.php on line 936
+
+2022-03-21T15:46:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\my-wp-site\wp-includes\query.php on line 936
+
+2022-03-21T15:46:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\my-wp-site\wp-includes\class-wp-query.php on line 3420
+

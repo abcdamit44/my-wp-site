@@ -1,0 +1,26 @@
+/*
+Theme Name: kstheme
+Author: @krishavinfotech
+Author URI: krishavinfotech.com
+Version: 1.0
+ */
+
+.navbar-nav a {
+    padding: 5px 20px;
+    color: #131313;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    font-weight: 700;
+    margin: 0 0.75rem;
+}
+
+.navbar-nav a:hover {
+    color: #f7444e;
+}
+
+.custom-logo-link {
+    width: 20%;
+}
